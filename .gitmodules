@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "lme4breeding"]
+	path = lme4breeding
+	url = https://github.com/cran/lme4breeding
 [submodule "sommer"]
 	path = sommer
 	url = https://github.com/covaruber/sommer
