@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "enhancer"]
+	path = enhancer
+	url = https://github.com/covaruber/enhancer
 [submodule "evola"]
 	path = evola
 	url = https://github.com/covaruber/evola
